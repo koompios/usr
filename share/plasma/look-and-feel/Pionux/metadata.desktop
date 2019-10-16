@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Pionux
+X-KDE-PluginInfo-Author=Koompi Pionux
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=pi@koompi.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CC-BY-SA
+X-KDE-PluginInfo-Name=Pionux
+X-KDE-PluginInfo-Version=0.1
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1309802,kns://plasma-themes.knsrc/api.kde-look.org/1309800,kns://aurorae.knsrc/api.kde-look.org/1319548,kns://icons.knsrc/api.kde-look.org/1319624,kns://wallpapers.knsrc/api.kde-look.org/1319549

@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Pionux
+Description=Pionux theme for KDE Plasma
+Author=Koompi team
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=pi@koompi.com
+Theme-Id=Pionux
+Theme-API=2.0
